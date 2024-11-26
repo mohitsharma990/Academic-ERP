@@ -1,1 +1,1 @@
-# Academic_ERP
+# Academic-ERP
